@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1, 
+        "name": "Backpack",
+        "productDescription": "Backpack perfect for travel or school.",
+        "price": 39.99,
+        "image": "assets/images/backpack.jpg" 
+    },
+    {
+        "id": 2, 
+        "name": "Bag",
+        "productDescription": "Stylish and versatile handbag, great for everyday use",
+        "price": 15.99,
+        "image": "assets/images/bag.jpg"
+    },
+    {
+        "id": 3, 
+        "name": "Belt",
+        "productDescription": "Classic leather belt, suitable for both formal and casual outfits.",
+        "price": 7.99,
+        "image": "assets/images/belt.jpg"
+    },
+    {
+        "id": 4, 
+        "name": "Blue T-Shirt",
+        "productDescription": "Soft cotton blue t-shirt, comfortable and perfect for daily wear.",
+        "price": 29.99,
+        "image": "assets/images/blue_tshirt.jpg"
+    },
+    {
+        "id": 5, 
+        "name": "Cap",
+        "productDescription": "Sporty cap with curved visor, ideal for sunny days.",
+        "price": 9.99,
+        "image": "assets/images/cap.jpg"
+    },
+    {
+        "id": 6, 
+        "name": "Floral dress",
+        "productDescription": "Light and colorful floral dress.",
+        "price": 49.99,
+        "image": "assets/images/floral-dress.jpg"
+    },
+    {
+        "id": 7, 
+        "name": "Green Bag",
+        "productDescription": "Spacious green bag with sturdy handles and a modern design.",
+        "price": 19.99,
+        "image": "assets/images/green-bag.jpg"
+    },
+    {
+        "id": 8, 
+        "name": "Necklace gold",
+        "productDescription": "Elegant gold necklace with a shiny finish, perfect for special occasions.",
+        "price": 14.99,
+        "image": "assets/images/necklace.jpg"
+    },
+    {
+        "id": 9, 
+        "name": "Summer dress",
+        "productDescription": "Fresh and comfortable summer dress, light and feminine design.",
+        "price": 29.99,
+        "image": "assets/images/summer-dress.jpg"
+    },
+    {
+        "id": 10, 
+        "name": "Black jersey",
+        "productDescription": "Lightweight black jersey, perfect for layering or cool weather.",
+        "price": 25.99,
+        "image": "assets/images/jersey.jpg"
+    }
+]
